@@ -1,25 +1,21 @@
-h1
+/* h1
 {
     color:orange;
     text-align:center;
-}
+} */
 
-
-/* <h1>
-     style="text-align:right"
-<>
-
-table
+/* table
 {
     float:right"
-}
+} */
 
 
 body
 {
-    background-color:#d0e4fe;
+    background-color:#999999;
 }
 
+/*
 p
 {
     font-family:"Times New Roman";
