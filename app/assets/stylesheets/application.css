@@ -42,7 +42,6 @@
  
  body
  {
-     /* background-color:#d0e4fe; */
      background: url(background.jpg);
  }
  
@@ -64,7 +63,7 @@
      padding:4px;
      text-decoration:none; 
  }
- 
+
  a:hover,a:active
  {
      background-color:rgb(153, 119, 26);
