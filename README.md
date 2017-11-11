@@ -14,7 +14,7 @@
 
 * 主界面
 点击Blog进入以下功能
-![image](https://github.com/bingjunguo/homework_db/raw/master/Screenshots/home.png)
+![image](https://github.com/bingjunguo/homework_db/blob/master/Screenshots/home.png)
 * 新建博客
 
 * 编辑/更新博客
