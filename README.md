@@ -12,7 +12,11 @@
 
 2.功能实现
 
+* 主界面
+点击Blog进入以下功能
+![image](https://github.com/bingjunguo/homework_db/raw/master/Screenshots/home.png)
 * 新建博客
+
 * 编辑/更新博客
 * 删除博客
 * 展示博客
