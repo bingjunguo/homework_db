@@ -1,5 +1,9 @@
 # README
 
+外网访问地址
+
+* https://homework-db-bjguo.c9users.io/
+
 1.开发环境
 * Ruby version: Ruby 2.3.1
 
@@ -40,6 +44,10 @@
 
 
 3.值得注意
+
+* 运行程序需要数据库
+
+  rails db:migrate
   
-  如果新建的博客标题为空或者少于5个字符，则不能创建。
+* 如果新建的博客标题为空或者少于5个字符，则不能创建。
 ![image](https://github.com/bingjunguo/homework_db/blob/master/screenshots/cannot_new.png)
